@@ -8,9 +8,10 @@ export PATH="$HOME/.local/bin:$PATH"
 plugins=(git)
 
 # [[ Theme ]]
-ZSH_THEME="bira"
+ZSH_THEME="crunch"
 
 # [[ Aliases ]]
+alias python="python3"
 alias nf="neofetch"
 alias tt="tree"
 
