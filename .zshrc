@@ -6,7 +6,7 @@ export PATH="$HOME/.local/bin:$PATH"
 # [[ End Paths ]]
 
 # Plugings
-plugins=(git)
+plugins=(git zsh-syntax-highlighting zsh-autosuggestions)
 
 # Theme
 ZSH_THEME="crunch"
