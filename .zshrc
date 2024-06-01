@@ -3,16 +3,18 @@
 export ZSH="$HOME/.oh-my-zsh"
 # pip
 export PATH="$HOME/.local/bin:$PATH"
+# [[ End Paths ]]
 
-# [[ Plugings ]]
+# Plugings
 plugins=(git)
 
-# [[ Theme ]]
+# Theme
 ZSH_THEME="crunch"
 
 # [[ Aliases ]]
 alias python="python3"
 alias nf="neofetch"
 alias tt="tree"
+# [[ End Aliases ]]
 
 source $ZSH/oh-my-zsh.sh
